@@ -81,7 +81,9 @@ const propiedades_alquiler = [
     
     for (const propiedad of propiedades_alquiler) {
         const propiedadTemplateString = `
-        
+ <div class="container">
+     <div class="row">
+        <div class="col-md-4 mb-4">
             <div class="card">
                 <img
                     src="${propiedad.src}"
@@ -118,6 +120,8 @@ const propiedades_alquiler = [
                 </div>
             </div>
      </div>
+ </div>
+ </div>
         `;
     
         propiedadesHTML += propiedadTemplateString; 
