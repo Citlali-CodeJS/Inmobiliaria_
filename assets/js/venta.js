@@ -64,7 +64,7 @@ const propiedades_venta = [
     {
         id: 6,
         nombre: 'Recámara en Departamento Compartido',
-        src: 'https://img10.naventcdn.com/avisos/resize/18/01/45/92/47/30/1200x1200/1519371407.jpg',
+        src: 'https://img10.naventcdn.com/avisos/resize/18/00/63/42/11/69/1200x1200/302107398.jpg?isFirstImage=true',
         descripcion: ' Recámara en departamento compartido con baño privado y completamente amueblado solo para mujeres, ubicado en Condesa Sur. ',
         ubicacion: 'Condesa Sur',
         habitaciones: '1 ',
